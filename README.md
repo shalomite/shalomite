@@ -1,7 +1,6 @@
 #### 👋 Hi, I’m Odusoro Salome
-- 👀 I’m interested in Python and R for data analytics/science
-- 🌱 I’m currently learning data analysis on Udacity Nanodegree Program.
-- 💞️ I’m looking to collaborate on big data projects
+- 👀 I'm a junior software developer with stack java, springboot and react.
+- 💞️ I’m looking to collaborate on various developer projects
 - 📫 How to reach me shallysworld02@gmail.com, whatsapp: +2347080251817
 
 <!---
